@@ -1,6 +1,7 @@
 package com.company;
 
 public class Main {
+    private int task = 0;
 
     public static void main(String[] args) {
         // (1)  two commits = more than one line of changes
